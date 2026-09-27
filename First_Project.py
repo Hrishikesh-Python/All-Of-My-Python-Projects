@@ -8,17 +8,25 @@ Player_Name = (input("Hello what's your name?"))
 
 print()
 
+time.sleep(3)
+
 print("Oh, nice name,", Player_Name )
 
 print()
+
+time.sleep(3)
 
 input("Press any key to continue")
 
 print()
 
+time.sleep(3)
+
 print("Well my name is,\n")
 
 print()
+
+time.sleep(3)
 
 print("HH   HH", "RRRRRR ", "IIIIIII", " SSSSS ", "HH   HH", "IIIIIII", "KK   KK", "EEEEEEE", " SSSSS ", "HH   HH", sep = "\t")
 print("HH   HH", "RR   RR", "   II  ", "SS     ", "HH   HH", "   II  ", "KK  KK ", "EE     ", "SS     ", "HH   HH", sep = "\t")
@@ -29,6 +37,8 @@ print("HH   HH", "RR  RR ", "   II  ", "     SS", "HH   HH", "   II  ", "KK  KK 
 print("HH   HH", "RR   RR", "IIIIIII", " SSSSS ", "HH   HH", "IIIIIII", "KK   KK", "EEEEEEE", " SSSSS ", "HH   HH", sep = "\t", end = "\n\r")
 
 print()
+
+time.sleep(3)
 
 input("Press any key to continue")
 
@@ -41,6 +51,8 @@ print()
 print()
 
 print()
+
+time.sleep(3)
 
 from colorama import Fore, init
 
